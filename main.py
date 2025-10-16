@@ -3,7 +3,7 @@ from telebot import types
 import webbrowser
 import random
 
-bot = telebot.TeleBot(" ")
+bot = telebot.TeleBot("8297912494:AAHuugBP3yXZKxBmcmvTXBIKYgJnszH2pWc")
 USER_DATA = {}
 TASKS = ["Ежедневки", "Смола", "Отметиться"]
 challenge = ['Убей босса', 'Пройди подземелье', 'Найди 5 сундуков', 'Сыграть в призыв семерых', 'Пойти в бездну', 'Улучшить персонажа', 'Зайти в мультиплеер']
